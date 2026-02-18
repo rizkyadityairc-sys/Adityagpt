@@ -22,7 +22,7 @@ cat << "EOF"
  ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝
  
           Ai AdITyaFxGPT v13.0
-        by rizky Aditya Siagian 🤫
+        by rizky Aditya Siagian 🤫🤫
 EOF
 echo -e "${NC}"
 
